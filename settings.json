@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ONECHUNK_SMP.aternos.me",
+    "port": 28903,
     "version": "",
     "try-creative": false
   },
