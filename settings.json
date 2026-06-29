@@ -8,7 +8,7 @@
   "server": {
     "ip": "ONECHUNK_SMP.aternos.me",
     "port": 28903,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
